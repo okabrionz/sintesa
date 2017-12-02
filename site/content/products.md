@@ -2,7 +2,7 @@
 title: Our Coffee
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/die-berhenti.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
